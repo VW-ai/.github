@@ -12,4 +12,4 @@ We build experimental products blending AI systems, data engineering, and creati
 ## 🌐 Contact
 
 - Founder: Wayne Wang (@waynewangyuxuan)
-- Founder: Victor Zhang (@V1ctor2182) [PORTFOLIO](https://portfolio-vic123.vercel.app/)
+- Founder: [Victor Zhang](https://portfolio-vic123.vercel.app/) (@V1ctor2182) 
