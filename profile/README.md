@@ -10,5 +10,6 @@ We build experimental products blending AI systems, data engineering, and creati
 - [Notate](https://github.com/VW-ai/Notate): Swift-based quick capture app.
 
 ## 🌐 Contact
-Founder: Wayne Wang (@waynewangyuxuan)
-Founder: Victor Zhang (@V1ctor2182) [PORTFOLIO](https://portfolio-vic123.vercel.app/)
+
+- Founder: Wayne Wang (@waynewangyuxuan)
+- Founder: Victor Zhang (@V1ctor2182) [PORTFOLIO](https://portfolio-vic123.vercel.app/)
